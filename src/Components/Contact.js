@@ -19,19 +19,13 @@ class Contact extends Component {
 
          <div className="row section-head">
 
-            <div className="two columns header-col">
-
-               <h1><span>Get In Touch.</span></h1>
-
-            </div>
-
-            <div className="ten columns">
-
+         
+            <h1></h1>
                   <p className="lead">{message}</p>
 
-            </div>
+         
 
-         </div>
+         
 
          <div className="row">
             <aside className="four columns footer-widgets">
@@ -47,8 +41,9 @@ class Contact extends Component {
 					   </p>
 				   </div>
             </aside>
-      </div>
-   </section>
+         </div>
+         </div>
+      </section>
     );
   }
 }

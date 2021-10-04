@@ -34,7 +34,7 @@ class Header extends Component {
       <div className="row banner">
          <div className="banner-text">
             <h1 className="responsive-headline">I'm {name}.</h1>
-            <h3>Nato a Brescia nel 25/07/1993. Esperienza di programmazione, sistemistica e sicurezza informatica dal 2012</h3>
+            <h3>I was born in Brescia on 25/07/1993. <br/> I have experience in development, Helpdesk and IT.</h3>
             <hr />
             <ul className="social">
                {networks}

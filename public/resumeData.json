@@ -4,7 +4,7 @@
     "occupation": "Helpdesker at Abletech SRL",
     "description": "The helpdesker job has allowed me to refine my ability to work in a team and the ability to solve problems in a simple and effective way, also finding alternative ways",
     "image": "profilepic.jpg",
-    "bio": "I'm very comfortable with using t-SQL and c#. I like work with database and sometimes i do operation managerial operation mainly on SQL Server",
+    "bio": "I'm very comfortable with using t-SQL and c#. I like work with database and sometimes i do managerial operation mainly on SQL Server",
     "contactmessage": "You may conctact me at the following contacts",
     "email": "andrea.arrighini@outlook.it",
     "phone": "331-2061979",
@@ -15,7 +15,7 @@
       "zip": "25017"
     },
     "website": "https://arrighiniandrea.it",
-    "resumedownload": "https://arrighiniandrea.it/",
+    "resumedownload": "https://arrighiniandrea.it/Download/CV.pdf",
     "social": [
       {
         "name": "facebook",
@@ -111,8 +111,12 @@
         "level": "50%"
       },
       {
-        "name": "Scripting",
+        "name": "Scripting (windows, unix)",
         "level": "80%"
+      },
+      {
+        "name":"T-SQL",
+        "level":"90%"
       }
 
     ]
